@@ -1,5 +1,7 @@
 # Descripción
 
+Nuestro personaje es un "Youtuber" que aspira a mudarse a Andorra, ¿lo conseguirá?
+
 # URL del tablero de trello
 
 https://trello.com/b/Oqb6muWt/proyecto-individual-desarrollo-%C3%A1gil
