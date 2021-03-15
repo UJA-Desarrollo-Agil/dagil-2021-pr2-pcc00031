@@ -14,6 +14,19 @@ https://trello.com/b/Oqb6muWt/proyecto-individual-desarrollo-%C3%A1gil
 
 ![trello2](https://user-images.githubusercontent.com/49394226/108475139-9b391a80-7290-11eb-84e4-6f4e7ac3d5b1.PNG)
 
+- 05/03/21 - Primeras tareas terminadas y proceso de estudio
+
+![trello3](https://user-images.githubusercontent.com/49394226/111220042-f97bc380-85d8-11eb-9105-5d1623057648.PNG)
+
+- 11/02/21 - Empezando primer proyecto
+
+![trello4](https://user-images.githubusercontent.com/49394226/111220121-11534780-85d9-11eb-9697-96a24cf47662.PNG)
+
+- 15/03/21 - Terminando proyecto final
+
+![trello5](https://user-images.githubusercontent.com/49394226/111220244-3ba50500-85d9-11eb-8c05-682b52042f35.PNG)
+
+
 # Vinculación con Telegram
 
 Se ha creado un grupo de Telegram con ambos bots. 
