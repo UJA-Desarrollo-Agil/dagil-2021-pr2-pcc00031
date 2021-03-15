@@ -4,6 +4,8 @@ body {
     font-size: 18px;
     line-height: 1.6em;
     background-attachment: fixed;
+    background-size: 100%; 
+    background-repeat: no-repeat; background-position: center;
     overflow-y: scroll;
 }
 
