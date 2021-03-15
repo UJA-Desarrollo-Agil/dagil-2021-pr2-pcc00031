@@ -1,6 +1,6 @@
 # Descripción
 
-Nuestro personaje es un "Youtuber" que aspira a mudarse a Andorra, ¿lo conseguirá?
+Nuestro personaje es un "Youtuber" que aspira a mudarse (*comprar* una casa) a Andorra, ¿lo conseguirá?
 
 # URL del tablero de trello
 
